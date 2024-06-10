@@ -12,15 +12,18 @@
   
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fjiyoung-Heo%2Fhit-counter&count_bg=%23282A36&title_bg=%23DD6387&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
   
-  
   ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=jiyoung-Heo&&show_icons=true&theme=dracula)
   
   <br>
 
   </div>
-  
+
   > 경력
-  - 22.02 ~ 23.08 인포뱅크 소프트웨어개발자
+  - 22.02 ~ 23.08 인포뱅크 | 소프트웨어개발자
+  
+  > 교육
+  - 21.03 ~ 21.09 중앙HTA | 모던 웹개발을 위한 응용 SW엔지니어링 양성과정
+  - 24.01 ~ SSAFY(삼성 청년 SW 아카데미) | JAVA 트랙
   
   > 프로젝트목록
   - 스쿠터대여
