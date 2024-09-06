@@ -14,9 +14,10 @@
   
   ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=jiyoung-Heo&&show_icons=true&theme=dracula)
   
-  <br>
-
+  <br> 
   </div>
+
+  [경력기술서 Notion](https://gz3ro.notion.site/290959cc55fd453290d0125ae87470ce?pvs=4)
 
   > 경력
   - 22.02 ~ 23.08 인포뱅크 | 소프트웨어개발자
@@ -28,12 +29,13 @@
   > 프로젝트목록
   - 스쿠터대여
   - 에임테스트
-  - 세미프로젝트(쇼핑몰)
-  - 파이널프로젝트(숙박예약사이트)
-  - SSAFY 11th 관통프로젝트(운동모임)
+  - 세미프로젝트 (쇼핑몰)
+  - 파이널프로젝트 (숙박예약사이트)
+  - SSAFY 11th 관통프로젝트 (운동모임)
+  - SSAFY 11th 공통프로젝트-KOPLAY (다문화 한글학습)
   
   > 개발중 프로젝트
-  - 쇼핑몰 웹 프로젝트
+  - SSAFY 11th 특화프로젝트:빅데이터분산 (토지매매사기예방)
 
   > 스터디
   - 우테코 4기 프리코스 스터디
