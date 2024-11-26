@@ -38,15 +38,15 @@
 
 SSAFY 11th 관통프로젝트 (운동모임)
 
-SSAFY 11th 공통프로젝트-KOPLAY (다문화 한글학습)
+SSAFY 11th 공통프로젝트 KOPLAY : 웹기술 (다문화 한글학습)
 
-SSAFY 11th 특화프로젝트:빅데이터분산 (토지매매사기예방)
+SSAFY 11th 특화프로젝트 Tokim-E : 빅데이터분산 (토지매매사기예방)
+
+SSAFY 11th 자율프로젝트 Medical-Copilot : 기업연계 (의료 AI 플랫폼)
 
 ---
 
 **개발중 프로젝트**
-
-SSAFY 11th 기업연계프로젝트-뉴메스(의료 AI 플랫폼 'Medical Copilot' 웹 애플리케이션 개발)
 
 ---
 
@@ -57,6 +57,8 @@ SSAFY 11th 기업연계프로젝트-뉴메스(의료 AI 플랫폼 'Medical Copil
 frontEnd react 스터디
 
 알고리즘 스터디
+
+CS 스터디
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=BDBDC8&height=150&section=footer" />
 
